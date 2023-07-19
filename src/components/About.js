@@ -7,6 +7,7 @@ export default function About(props) {
   }
     return (
     <>
+    
     <div className='container' style={mystyle}>
     <div class="accordion accordion-flush" style={mystyle}id="accordionFlushExample">
   <div class="accordion-item" style={mystyle} >
